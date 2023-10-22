@@ -1,5 +1,6 @@
 # CS230
 CS230
+
 1.Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
 2.What did you do particularly well in developing this documentation?
